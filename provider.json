@@ -49,12 +49,6 @@
     "dist/providers/whvx.js",
     "dist/providers/xcine.js",
     "dist/providers/xmovies.js",
-    "dist/providers/zoechip.js",
-
-    "dist/providers/9anime.js",
-    "dist/providers/gogoanime.js",
-    "dist/providers/hianime.js",
-    "dist/providers/miruro.js",
-    "dist/providers/sudatchi.js"
+    "dist/providers/zoechip.js"
   ]
 }
